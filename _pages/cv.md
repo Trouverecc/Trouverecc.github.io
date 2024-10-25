@@ -15,7 +15,7 @@ Education
 
 Honor and Award
 ======
-* 2023: Nattonal Excellence Scholarship
+* 2023: National Excellence Scholarship
   * awarded to the top 5% of students
 
 * 2023: Outstanding Student of Sunshine Sports Inittattve
