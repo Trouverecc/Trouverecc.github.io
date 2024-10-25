@@ -12,5 +12,5 @@ I'm a third-year undergraduate student from [School of CIC](https://cic.tju.edu.
 
 You can find my CV here: [Qiucheng Chen's Curriculum Vitae](../assets/CV.pdf). 
 
-[Email](mailto: trouverecc@gmail.com) / [GitHub](https://github.com/Trouverecc) / [Wechat](../image/wechat.jpg)
+[Email](mailto: trouverecc@gmail.com) / [GitHub](https://github.com/Trouverecc) / [Wechat](../image/wechat.png)
 
