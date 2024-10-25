@@ -28,7 +28,7 @@ Skills
 ======
 * IT Skills: C++, Python, C, Java, System Verilog, HTML, SPSS, SQL
 * Language: IELTS 7.5 (L8.5, R7.5, W7.0, S6.0) 
-* Interests: Swimming, Basketball, Badminton, Piano, Guitar, Zither, Painttng
+* Interests: Swimming, Basketball, Badminton, Piano, Guitar, Zither, Painting
 
   
 Service and leadership
