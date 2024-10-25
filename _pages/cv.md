@@ -11,54 +11,28 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Bachelor of Computer Science and Technology, Tianjin, Tianjin University (Expected 2026)
 
-Work experience
+Honor and Award
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2023: Nattonal Excellence Scholarship
+  * awarded to the top 5% of students
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2023: Outstanding Student of Sunshine Sports Inittattve
+  * awarded to the top 1% of students
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2022: Liu Bao Scholarship
+  * awarded to the top scoring student in the Nattonal Entrance Exam from each province, representtng the top 0.6% of students
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* IT Skills: C++, Python, C, Java, System Verilog, HTML, SPSS, SQL
+* Language: IELTS 7.5 (L8.5, R7.5, W7.0, S6.0) 
+* Interests: Swimming, Basketball, Badminton, Piano, Guitar, Zither, Painttng
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Double Innovatton Center, Faculty of Intelligence and Computtng, Tianjin University
+  * Director of Science and Technology Associatton
+* Class Psychologist
