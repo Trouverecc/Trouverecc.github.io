@@ -15,6 +15,8 @@ Education
 
 Honor and Award
 ======
+* 2024: Academic Achievement Scholarship
+
 * 2023: National Excellence Scholarship
   * awarded to the top 5% of students
 
@@ -35,4 +37,5 @@ Service and leadership
 ======
 * Double Innovatton Center, Faculty of Intelligence and Computtng, Tianjin University
   * Director of Science and Technology Associatton
-* Class Psychologist
+* Class Peer Support Leader
+* Computer Science and Math Tutor
