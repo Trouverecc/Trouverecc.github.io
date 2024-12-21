@@ -35,7 +35,7 @@ Skills
   
 Service and leadership
 ======
-* Double Innovatton Center, Faculty of Intelligence and Computtng, Tianjin University
-  * Director of Science and Technology Associatton
+* Double Innovatton Center, Faculty of Intelligence and Computing, Tianjin University
+  * Director of Science and Technology Association
 * Class Peer Support Leader
 * Computer Science and Math Tutor
