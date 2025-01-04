@@ -11,14 +11,17 @@ redirect_from:
 
 Education
 ======
-* Bachelor of Computer Science and Technology, Tianjin, Tianjin University (Expected 2026)
+* Bachelor of Computer Science and Technology, Tianjin, Tianjin University (2022 - Expected 2026)
 
 Honor and Award
 ======
 * 2024: Academic Achievement Scholarship
 
+* 2024: Outstanding Individual for Academic Progress and Advancement
+
+* 2024: Outstanding Student Leader
+
 * 2023: National Excellence Scholarship
-  * awarded to the top 5% of students
 
 * 2023: Outstanding Student of Sunshine Sports Initiative
   * awarded to the top 1% of students
