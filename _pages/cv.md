@@ -31,14 +31,14 @@ Honor and Award
   
 Skills
 ======
-* IT Skills: C++, Python, C, Java, System Verilog, HTML, CSS, JavaScript, SPSS, SQL
+* IT Skills: C++/C, Python, Java, System Verilog, HTML, CSS, JavaScript, SPSS, SQL
 * Language: IELTS 7.5 (L8.5, R7.5, W7.0, S6.0) 
 * Interests: Swimming, Basketball, Badminton, Piano, Guitar, Zither, Painting
 
   
 Service and leadership
 ======
-* Double Innovatton Center, Faculty of Intelligence and Computing, Tianjin University
+* Double Innovation Center, Faculty of Intelligence and Computing, Tianjin University
   * Director of Science and Technology Association
 * Class Peer Support Leader
 * Computer Science and Math Tutor
