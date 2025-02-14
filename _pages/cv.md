@@ -32,7 +32,7 @@ Honor and Award
 Skills
 ======
 * IT Skills: C++/C, Python, Java, System Verilog, HTML, CSS, JavaScript, SPSS, SQL, \LaTeX\
-* Language: English (IELTS 7.5 ), Chinese 
+* Language: English (IELTS 7.5), Chinese 
 * Interests: Swimming, Basketball, Badminton, Piano, Guitar, Zither, Painting
 
   
