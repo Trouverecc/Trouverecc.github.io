@@ -31,8 +31,8 @@ Honor and Award
   
 Skills
 ======
-* IT Skills: C++/C, Python, Java, System Verilog, HTML, CSS, JavaScript, SPSS, SQL
-* Language: IELTS 7.5 (L8.5, R7.5, W7.0, S6.0) 
+* IT Skills: C++/C, Python, Java, System Verilog, HTML, CSS, JavaScript, SPSS, SQL, $\mathcal{L}\!\!^a\mathcal{T}\!e\mathcal{X}$
+* Language: English (IELTS 7.5 ), Chinese 
 * Interests: Swimming, Basketball, Badminton, Piano, Guitar, Zither, Painting
 
   
