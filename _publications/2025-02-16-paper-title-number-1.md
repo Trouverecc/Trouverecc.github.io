@@ -1,7 +1,7 @@
 ---
 title: "Valuable Hallucinations: Realizable Non-Realistic Propositions "
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2025-02-16-paper-title-number-1
 excerpt: 'This paper introduces the first formal definition of valuable hallucinations in large language models (LLMs).'
 date: 2025-02-16
