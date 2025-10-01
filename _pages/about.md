@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third-year undergraduate student from [School of CIC](https://cic.tju.edu.cn/), [Tianjin University](https://www.tju.edu.cn/index.htm). My research interest includes Large Language Models, Machine Learning, and Graph Neural Network. 
+I'm a fourth-year undergraduate student from [College of Intelligence and Computing](https://cic.tju.edu.cn/), [Tianjin University](https://www.tju.edu.cn/index.htm). My research interest includes Large Language Models, Hallucination in LLMs, multi-modal LLMs. 
 
-You can find my CV here: [Qiucheng Chen's Curriculum Vitae](../assets/CV.pdf). 
+You can find my CV here: [Qiucheng Chen's Curriculum Vitae](../assets/CV-phd.pdf). 
 
-Chinese Version CV: [中文版简历](../assets/CV-zh-CN.pdf) 
+Chinese Version CV: [中文版简历](../assets/CV-zh.pdf) 
 
 [Email](mailto: trouverecc@gmail.com) / [GitHub](https://github.com/Trouverecc) 
 
