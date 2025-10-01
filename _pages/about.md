@@ -12,7 +12,7 @@ I'm a fourth-year undergraduate student from [College of Intelligence and Comput
 
 You can find my CV here: [Qiucheng Chen's Curriculum Vitae](../assets/CV-phd.pdf). 
 
-Chinese Version CV: [中文版简历](../assets/CV-zh.pdf) 
+Chinese Version CV: [中文版简历](../assets/CV-Zh.pdf) 
 
 [Email](mailto: trouverecc@gmail.com) / [GitHub](https://github.com/Trouverecc) 
 
