@@ -29,7 +29,7 @@ Honor and Award
   * awarded to the top 1% of students
 
 * 2022: Liu Bao Scholarship
-  * awarded to the top scoring student in the National Entrance Exam from each province, representing the top 0.6% of students
+  * awarded to the top scoring student in the National Entrance Exam from each province at TJU, representing the top 0.6% of students
   
 Skills
 ======
