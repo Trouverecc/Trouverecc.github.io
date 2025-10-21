@@ -12,6 +12,7 @@ redirect_from:
 Education
 ======
 * Bachelor of Computer Science and Technology, Tianjin, Tianjin University (2022 - Expected 2026)
+  * GPA: 3.72/4.0, 89.779/100, [Transcript](../assets/transcript-qiuchengchen.pdf) 
 
 Honor and Award
 ======
