@@ -11,8 +11,9 @@ redirect_from:
 
 Education
 ======
-* Bachelor of Computer Science and Technology, Tianjin, Tianjin University (2022 - Expected 2026)
-  * GPA: 3.72/4.0, 89.779/100, [Transcript](../assets/transcript-qiuchengchen.pdf) 
+* Bachelor of Computer Science and Technology, Tianjin, Tianjin University (Aug 2022 - Expected Jul 2026)
+  * GPA: 3.72/4.0, 89.779/100, [Transcript](../assets/transcript-qiuchengchen.pdf)
+* Liaoning Province Shiyan High School, Aug 2019 - Jun 2022
 
 Honor and Award
 ======
