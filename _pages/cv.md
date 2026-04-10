@@ -23,7 +23,7 @@ Honor and Award
 
 * 2024: Outstanding Student Leader
 
-* 2023: National Excellence Scholarship
+* 2023: Outstanding Student Scholarship
 
 * 2023: Outstanding Student of Sunshine Sports Initiative
   * awarded to the top 1% of students
